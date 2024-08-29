@@ -46,14 +46,12 @@ To get started with this project, follow these steps:
 
 2. **Update Footer Content**:
    - Edit the `index.html` file to change the footer content (e.g., links, text, social media icons).
-
-### Example
-
-
+   - 
 ### Contact
 
 For any questions or feedback, feel free to contact me:
 
-- **Email**: your.email@example.com
-- **GitHub**: [YourUsername](https://github.com/YourUsername)
+- **Email**: shaikrafikpasha786@gmail.com
+- **GitHub**: [Rafikpashashaik](https://github.com/Rafikpashashaik)
+- **Codepen**: [Rafi@dev](https://codepen.io/Rafael-007/pen/OJeELZX)
 

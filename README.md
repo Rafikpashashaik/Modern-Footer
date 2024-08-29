@@ -57,6 +57,3 @@ For any questions or feedback, feel free to contact me:
 - **Email**: your.email@example.com
 - **GitHub**: [YourUsername](https://github.com/YourUsername)
 
----
-
-Feel free to adjust the sections, paths, and details according to your project's specifics and personal preferences.
